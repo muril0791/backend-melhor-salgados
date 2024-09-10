@@ -1,0 +1,13 @@
+2024-06-20T20:11:12.395Z [info]: Server running on port 5000
+2024-06-20T20:46:44.107Z [info]: Server running on port 5000
+2024-06-20T20:48:27.282Z [info]: Server running on port 5000
+2024-06-20T20:50:57.236Z [info]: Server running on port 5000
+2024-06-20T20:54:03.336Z [error]: Operation `orders.insertOne()` buffering timed out after 10000ms
+2024-06-20T21:02:03.405Z [info]: Server running on port 5000
+2024-06-20T21:12:46.273Z [info]: Server running on port 5000
+2024-06-20T21:13:57.511Z [info]: Server running on port 5000
+2024-06-20T21:19:14.802Z [info]: Server running on port 5000
+2024-06-20T21:24:39.455Z [info]: Server running on port 5000
+2024-06-20T21:25:37.615Z [info]: Server running on port 5000
+2024-06-20T21:26:19.899Z [info]: Server running on port 5000
+2024-06-20T22:21:33.752Z [info]: Server running on port 5000
